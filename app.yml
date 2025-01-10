@@ -1,0 +1,4 @@
+apps:
+  - name: ai-training-agents
+    restart_delay: 100
+    script: npm run start
